@@ -26,3 +26,11 @@ Cara Eksekusi di Termux :
 pkg update & upgrade
 
 pkg install python2 git unrar
+
+unrar x joomscan.rar joomscan
+
+cd joomscan
+
+python2 joomscan.py
+
+target.com
