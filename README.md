@@ -11,7 +11,7 @@ Cara Eksekusi di Windows :
 
 Download Python : https://shortid.co/bFWBm
 
-git clone 
+git clone https://github.com/boychongzen18/joomscan.git
 
 cd joomscan
 
@@ -27,9 +27,11 @@ pkg update & upgrade
 
 pkg install python2 git unrar
 
-unrar x joomscan.rar joomscan
+git clone https://github.com/boychongzen18/joomscan.git
 
 cd joomscan
+
+unrar x joomscan.rar joomscan
 
 python2 joomscan.py
 
