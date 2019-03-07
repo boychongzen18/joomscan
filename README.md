@@ -5,7 +5,7 @@
 Tested : Windows & Termux
 
 
-Download file Sub & Extrak filenya
+Download file joomscan & Extrak filenya
 
 Cara Eksekusi di Windows :
 
@@ -15,7 +15,9 @@ git clone https://github.com/boychongzen18/joomscan.git
 
 cd joomscan
 
-python2 joomscan.py
+chmod 777 joomscan.py
+
+python joomscan.py
 
 target.com
 
@@ -32,6 +34,8 @@ git clone https://github.com/boychongzen18/joomscan.git
 cd joomscan
 
 unrar x joomscan.rar joomscan
+
+chmod +x joomscan.py
 
 python2 joomscan.py
 
