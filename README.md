@@ -19,7 +19,7 @@ python2 joomscan.py
 
 target.com
 
-===============================================
+===============================================================================
 
 Cara Eksekusi di Termux :
 
@@ -36,3 +36,20 @@ unrar x joomscan.rar joomscan
 python2 joomscan.py
 
 target.com
+
+===============================================================================
+
+My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+
+Link Tutorial : https://youtu.be/MT4tNN48PW4
+
+My Website : http://hackingforlive.cf
+
+My Facebok : https://web.facebook.com/xroot.xroot.7
+
+===============================================================================
+
+# Moto : Berbagi Itu Indah
+
+
+# Regard Boychongzen aka Xroot
